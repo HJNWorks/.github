@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Checkout https://heoj1n.com/ for a showcase of my projects!
+
 <!--
 
 **Here are some ideas to get you started:**
